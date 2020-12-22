@@ -96,3 +96,30 @@ Model 3 has the best performance, after adding simple convolutional layers and a
 Below is the results predicted by model 3 of 16 randomly selected images : 
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/74934323/102849124-746f7c80-43e4-11eb-8105-7bf233eadde8.png">
+
+
+
+## References
+UTK Face Dataset: http://aicip.eecs.utk.edu/wiki/UTKFace
+
+Keras Multi-output documentation: https://keras.io/getting-started/functional-api-guide/
+
+Krizhevsky, A., Sutskever, I., and Hinton, G.E. Imagenet classification with deep convolutional neural networks. In NIPS, 2012. 
+
+Karen Simonyan & Andrew Zisserman. Very Deep Convolutional Networks for Large-Scale Image Recognition. In ICLR, 2015
+
+K. Simonyan and A. Zisserman. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556,2014.	 
+
+Wang, J., Perez, L.: The Effectiveness of Data Augmentation in Image Classification using Deep Learning. http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf
+
+Zhang, C., Vinyals, O., Munos, R., et al.: A Study on Overfitting in Deep Reinforcement Learning. https://arxiv.org/pdf/1804.06893.pdf
+
+Ioffe, S. & Szegedy, C. (2015). Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift.. CoRR, abs/1502.03167. 
+
+Hernandez-Garcia, A., Konig, P.: Do deep nets really need weight decay and
+dropout? https://arxiv.org/pdf/1802.07042.pdf 
+
+
+Prechelt, L. (1996). Early Stopping-But When?. In G. B. Orr & K.-R. Müller (ed.), Neural Networks: Tricks of the Trade , Vol. 1524 (pp. 55-69) . Springer . ISBN: 3-540-65311-2.
+
+S. C. Wong, A. Gatt, V. Stamatescu, and M. D. McDonnell.Understanding data augmentation for classification: when to warp? CoRR, abs/1609.08764, 2016.
